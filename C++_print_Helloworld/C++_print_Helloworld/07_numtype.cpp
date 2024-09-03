@@ -3,7 +3,7 @@ using namespace std;
 /*
 区别在于所占用的内存空间不同。
 */
-int main() {
+int main7() {
 
 	//整形
 	//1. 短整型(-2^15 ~ 2^15-1)

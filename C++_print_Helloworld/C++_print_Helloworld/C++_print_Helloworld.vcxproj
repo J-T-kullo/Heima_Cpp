@@ -134,6 +134,9 @@
     <ClCompile Include="05_keywords.cpp" />
     <ClCompile Include="06_namerules.cpp" />
     <ClCompile Include="07_numtype.cpp" />
+    <ClCompile Include="08_size_of_keys.cpp" />
+    <ClCompile Include="09_real_type.cpp" />
+    <ClCompile Include="10_char.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

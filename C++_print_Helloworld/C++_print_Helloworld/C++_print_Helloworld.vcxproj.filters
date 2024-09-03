@@ -36,5 +36,14 @@
     <ClCompile Include="07_numtype.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="08_size_of_keys.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09_real_type.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10_char.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

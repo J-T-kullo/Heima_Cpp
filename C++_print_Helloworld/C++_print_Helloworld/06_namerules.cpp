@@ -8,7 +8,19 @@ using namespace std;
 	标识符中字母区分大小写。
 建议：命名要有可读性。
 */
-int main6(){
+int main6() {
+	
+	//int int = 10;
+
+	int abc = 10;
+	int _abc = 20;
+	int _123abc = 23;
+
+	//int 1df = 12;
+
+	int AAA = 100;
+	cout << AAA << endl;
+	//cout << aaa << endl;
 
 	system("pause");
 	return 0;
