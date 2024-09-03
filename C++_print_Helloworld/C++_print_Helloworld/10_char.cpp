@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int main10() {
 
 	//1. 字符型变量创建方式
 	char ch = 'a';
