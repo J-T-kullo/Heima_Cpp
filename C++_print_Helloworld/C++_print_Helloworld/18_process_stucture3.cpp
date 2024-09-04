@@ -5,10 +5,9 @@ using namespace std;
 选择结构：按照条件执行相应的功能
 循环结构：按照条件是否满足，循环多次执行某段代码
 */
-int main16() {
+int main18() {
 	//选择结构：按照条件执行相应的功能
-	//if语句
-	//用户输入分数，如果分数大于600，视为考上一本大学，在屏幕上输出
+	//嵌套if语句
 	int score = 0;
 	cout << "请输入一个分数: " << endl;
 	cin >> score;
@@ -16,9 +15,24 @@ int main16() {
 
 	if (score > 600) {
 		cout << "您考上了一本大学！" << endl;
+		if (score > 700) {
+			cout << "您考上北京大学！" << endl;
+		}
+		else if (score > 650) {
+			cout << "您考上清华大学！" << endl;
+		}
+		else {
+			cout << "您考上人民大学！" << endl;
+		}
+	}
+	else if (score > 500) {
+		cout << "您考上了二本大学！" << endl;
+	}
+	else if (score > 400) {
+		cout << "您考上了三本大学！" << endl;
 	}
 	else {
-		cout << "您没考上一本，但是不要灰心~" << endl;
+		cout << "您没考上本科~" << endl;
 	}
 
 	system("pause");

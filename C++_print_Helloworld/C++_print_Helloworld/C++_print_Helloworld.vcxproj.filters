@@ -63,5 +63,20 @@
     <ClCompile Include="16_process_stucture1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="17_process_stucture2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_process_stucture3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19_example1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20_trinomial_operator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21_switch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
