@@ -148,6 +148,13 @@
     <ClCompile Include="19_example1.cpp" />
     <ClCompile Include="20_trinomial_operator.cpp" />
     <ClCompile Include="21_switch.cpp" />
+    <ClCompile Include="22_cycle.cpp" />
+    <ClCompile Include="23_example2.cpp" />
+    <ClCompile Include="24_do_while.cpp" />
+    <ClCompile Include="25_shuixianhua.cpp" />
+    <ClCompile Include="26_for.cpp" />
+    <ClCompile Include="27_example3.cpp" />
+    <ClCompile Include="28_combine_cycle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

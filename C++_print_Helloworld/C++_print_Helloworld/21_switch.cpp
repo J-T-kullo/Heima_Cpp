@@ -11,7 +11,7 @@ switch(表达式)
 
 }
 */
-int main() {
+int main21() {
 	//switch语句
 	//给电影打分
 	//10~9 经典
