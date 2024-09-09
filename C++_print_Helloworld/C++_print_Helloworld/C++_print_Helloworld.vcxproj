@@ -155,6 +155,11 @@
     <ClCompile Include="26_for.cpp" />
     <ClCompile Include="27_example3.cpp" />
     <ClCompile Include="28_combine_cycle.cpp" />
+    <ClCompile Include="29_example4.cpp" />
+    <ClCompile Include="30_break.cpp" />
+    <ClCompile Include="31_continue.cpp" />
+    <ClCompile Include="32_goto.cpp" />
+    <ClCompile Include="33_shuzu1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

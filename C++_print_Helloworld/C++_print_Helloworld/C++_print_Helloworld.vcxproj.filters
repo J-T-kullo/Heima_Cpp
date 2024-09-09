@@ -99,5 +99,20 @@
     <ClCompile Include="28_combine_cycle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="29_example4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30_break.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31_continue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32_goto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33_shuzu1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
